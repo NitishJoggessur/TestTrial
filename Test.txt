@@ -1,0 +1,1 @@
+This document serves to check if the git clone and git push works properly 
